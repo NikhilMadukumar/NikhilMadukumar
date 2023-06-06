@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=NikhilMadukumar&theme=monokai)](https://git.io/streak-stats)
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilMadukumar&show_icons=true&theme=monokai)](https://github.com/NikhilMadukumar/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMadukumar&layout=compact&theme=monokai)](https://github.com/NikhilMadukumar/github-readme-stats)
