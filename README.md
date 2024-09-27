@@ -1,9 +1,5 @@
 👋 Hey there! I'm Nikhil, a passionate fresher at VIT Vellore, Class of 2026, pursuing B.Tech in Computer Science and Engineering. 💡
 
-💻 Currently, I'm exploring the realms of C and C++, expanding my expertise beyond Python. I love delving into the intricacies of programming languages and building efficient solutions to complex problems.
-
-🌱 Collaboration fuels my creativity! I'm on the lookout for exciting projects and opportunities to collaborate with like-minded individuals. If you have something intriguing and innovative in mind, I'm all ears!
-
 📫 You can reach out to me through:
 - 📧 Email: nikhilmadukumar@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/nikhil-madukumar-72501b275/
