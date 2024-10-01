@@ -1,11 +1,10 @@
-👋 Hey there! I'm Nikhil, a passionate fresher at VIT Vellore, Class of 2026, pursuing B.Tech in Computer Science and Engineering. 💡
 
-📫 You can reach out to me through:
+Am out to hopefully build something dope🙂
+
+Reach out to me through:
 - 📧 Email: nikhilmadukumar@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/nikhil-madukumar-72501b275/
-- 🌐 GitHub: https://github.com/NikhilMadukumar
-- 🎉 Let's connect and embark on an exhilarating technological journey together!
-Feel free to drop me a line and let's create something extraordinary! 🚀<br/>
+- 🌐 GitHub: https://github.com/NikhilMadukumar<br/>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NikhilMadukumar&theme=monokai)](https://git.io/streak-stats)<br/>
